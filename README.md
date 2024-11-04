@@ -33,7 +33,8 @@ We expect to deliver a working prototype consisting of our hardware platform con
 that satisfies all listed key objectives. We expect to be able to demonstrate that our project reaches our goals.
 
 ## Timeline:
-(Provide a rough timeline or milestones for the project)
-November 4 - November 7 === Create and present our project introduction/proposal
-November 8 - November 15 === Receive hardware, download software, and gather audio files to train the model
-Novemeber 18 - Novemeber 22 === 
+November 4 - November 7 === Create and present our project introduction/proposal  
+November 8 - November 15 === Receive hardware, download software, and gather audio files to train the model  
+Novemeber 18 - Novemeber 22 === Train the model, start initial testing  
+November 25 - November 27 === Week of Thanksgiving, dedicated to debugging and fixes  
+December 2 - December 5 === Finalize prototype, create and give presentation/demo on our project
