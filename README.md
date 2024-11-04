@@ -3,7 +3,7 @@
 https://studio.edgeimpulse.com/public/551144/live
 
 ## Team Name: 
-
+LumineSCent
 
 ## Team Members:
 - Kyle Clemente
