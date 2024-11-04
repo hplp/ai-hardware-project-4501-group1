@@ -11,7 +11,7 @@ LumineSCent
 - Phi Lu
 
 ## Project Title:
-Jarvis, Turn the Lights On
+**Jarvis, Turn the Lights On**
 
 ## Project Description:
 This project provides accessible use of lights for those with disabilities. 
