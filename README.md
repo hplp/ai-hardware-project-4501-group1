@@ -1,5 +1,7 @@
 # AI_Hardware_Project_Template
 
+https://studio.edgeimpulse.com/public/551144/live
+
 ## Team Name: 
 
 
