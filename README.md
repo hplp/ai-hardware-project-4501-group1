@@ -25,10 +25,9 @@ to the user with the execution of each command.
 - Map color-coded LEDs to commands and control their lighting according to those commands
 
 ## Technology Stack:
-(List the hardware platform, software tools, language(s), etc. you plan to use)
-Hardware platform: Arduino Nano 33 BLE Sense
-Software tools: Edge Impulse Studio, Arduino IDE
-Languages: C, Python, TinyML
+Hardware platform: Arduino Nano 33 BLE Sense  
+Software tools: Edge Impulse Studio, Arduino IDE  
+Languages: C, Python, TinyML  
 
 ## Expected Outcomes:
 We expect to deliver a working prototype consisting of our hardware platform connected to LEDs and a speaker (likely on a breadboard)
