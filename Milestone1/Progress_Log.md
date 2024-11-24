@@ -5,4 +5,14 @@ We connected the Arduino to our computer and installed all necessary software. W
 We've gathered abundant audio files for our trigger words 'Hey Jarvis', our command words 'turn on the lights' and 'turn off the lights', and background/unknown noise to use to train our model.
  
 **Step 2: Identify/Train the model** \
-TBD
+After building dataset, we designed our impulse using MFCC signal processing block. We configured and trained our neural network.
+\
+
+**Step 3: Program your hardware** \
+With the impulse designed, trained and verified we deployed this model back to the Arduino Nano 33 BLE by flashing it.
+\
+
+**Step 4: Run the first iterations** \
+We connected to the board's newly flashed firmware over serial and ran first testing using "edge-impulse-run-impulse --continuous" to capture audio from the microphone, run the MFCC code, and then classify the spectrogram to either "hey jarvis", "turn on the lights", "turn off the lights", noise, and unknown. 
+\
+
