@@ -4,8 +4,6 @@ This project demonstrates how to use the Arduino Nano 33 BLE Sense with Edge Imp
 
 ![Arduino BLE](https://github.com/hplp/ai-hardware-project-4501-group1/blob/main/FinalProjectReport/arduinoBLE.jpg)
 
-<img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/hplp/ai-hardware-project-4501-group1/blob/main/FinalProjectReport/arduinoBLE.jpg)" alt="Arduino BLE" width="100>
-
 **Objectives** 
 - Train a machine learning model to recognize the keyword "Hey Jarvis."
 - Deploy the model to an Arduino Nano 33 BLE Sense.
