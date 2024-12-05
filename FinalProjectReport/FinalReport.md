@@ -1,7 +1,7 @@
-**Objectives** 
+**Objectives** \
 
-**Tutorial**
+**Tutorial** \
 
-**Expected Results**
+**Expected Results** \
 
-**Known Issues and Solutions**
+**Known Issues and Solutions** \
