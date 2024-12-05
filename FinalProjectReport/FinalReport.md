@@ -2,7 +2,7 @@
 
 This project demonstrates how to use the Arduino Nano 33 BLE Sense with Edge Impulse to toggle an LED in response to the keyword "Hey Jarvis." The goal is to showcase the integration of machine learning and embedded systems.
 
-![Arduino BLE](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Arduino BLE](https://github.com/hplp/ai-hardware-project-4501-group1/blob/main/FinalProjectReport/arduinoBLE.jpg)
 
 **Objectives** 
 - Train a machine learning model to recognize the keyword "Hey Jarvis."
