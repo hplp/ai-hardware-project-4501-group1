@@ -41,4 +41,7 @@ Now that the Arduino IDE is set up, run the code from the 'nano_33ble_sense_micr
 **Known Issues and Solutions** 
 
 1. _Issue:_ System currently only recognizes keyword "Hey Jarvis." \
-_Solution:_ Include additional training data for new possible keywords, balance training dataset to account for new training data, and implement new keyword's functionality on the embedded hardware
+_Solution:_ Include additional training data for new possible keywords, balance training dataset to account for new training data, and implement new keyword's functionality on the embedded hardware.
+
+2. _Issue:_ System currently can only toggle LED with recognized keyword. \
+_Solution:_ Add to embedded code to include additional functionalities, map new functionalities to potential additional recognized keywords.
