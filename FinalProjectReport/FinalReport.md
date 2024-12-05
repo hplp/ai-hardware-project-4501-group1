@@ -33,6 +33,8 @@ Now that the Arduino IDE is set up, run the code from the 'nano_33ble_sense_micr
 
 **Expected Results** 
 - Say "Hey Jarvis" and observe the LED toggling.
+- Here is a demo example for the LED: https://drive.google.com/file/d/1v56EXrp1sznGvh6LEekcjANxnNL9UzKR/view?usp=drive_link
 - Serial monitor should display the detected keyword with confidence.
+- Here is what the serial monitor should display: https://drive.google.com/file/d/1dQ4PPbfzu6OgpTedZ8HtvWB5OeYeskQq/view?usp=drive_link
   
 **Known Issues and Solutions** 
