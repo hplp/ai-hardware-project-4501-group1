@@ -39,3 +39,6 @@ Now that the Arduino IDE is set up, run the code from the 'nano_33ble_sense_micr
 - Here is what the serial monitor should display: https://drive.google.com/file/d/1dQ4PPbfzu6OgpTedZ8HtvWB5OeYeskQq/view?usp=drive_link
   
 **Known Issues and Solutions** 
+
+1. _Issue:_ System currently only recognizes keyword "Hey Jarvis." \
+_Solution:_ Include additional training data for new possible keywords, balance training dataset to account for new training data, and implement new keyword's functionality on the embedded hardware
