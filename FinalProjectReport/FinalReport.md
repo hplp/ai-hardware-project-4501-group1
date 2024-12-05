@@ -23,10 +23,16 @@ Edge Impulse makes it easy to upload and gather data samples for training the mo
 To deploy the device to Arduino, the proper Arduino library must be downloaded from Edge Impulse and uploaded to the
 Arduino IDE. Also, after training the model, the proper firmware must be uploaded to the device also from Edge Impulse.
 
-4. Developing Arduino Code
+4. Set up the Circuit
+Set up the circuit on a breadboard using a 330-ohm resistor and an LED connected to pin 9 of the Arduino board. Connect
+the device to your computer in the desired port.
+
+6. Developing Arduino Code
 Now that the Arduino IDE is set up, run the code from the 'nano_33ble_sense_microphone.ino' file. Once running, open the
 'Serial Monitor' in the IDE to view what the device is hearing, displayed in the demo video 'JarvisOutput.mp4'.
 
 **Expected Results** 
-
+- Say "Hey Jarvis" and observe the LED toggling.
+- Serial monitor should display the detected keyword with confidence.
+  
 **Known Issues and Solutions** 
