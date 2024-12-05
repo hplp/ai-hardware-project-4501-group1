@@ -11,7 +11,7 @@ https://studio.edgeimpulse.com/public/551144/live
 - Phi Lu
 
 ## Project Title:
-**Jarvis, Turn the Lights On**
+** Hey Jarvis, Turn the Lights On**
 
 ## Project Description:
 This project provides accessible use of lights for those with disabilities. 
