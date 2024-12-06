@@ -30,7 +30,7 @@ the device to your computer in the desired port.
 
 6. Developing Arduino Code \
 Now that the Arduino IDE is set up, run the code from the 'nano_33ble_sense_microphone.ino' file. Once running, open the
-'Serial Monitor' in the IDE to view what the device is hearing, displayed in the demo video 'JarvisOutput.mp4'.
+'Serial Monitor' in the IDE to view what the device is hearing, displayed in the demo video 'JarvisOutput.mp4' located inside the repository.
 
 **Expected Results** 
 - Say "Hey Jarvis" and observe the LED toggling.
