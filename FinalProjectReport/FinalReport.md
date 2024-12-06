@@ -25,7 +25,7 @@ To deploy the device to Arduino, the proper Arduino library must be downloaded f
 Arduino IDE. Also, after training the model, the proper firmware must be uploaded to the device also from Edge Impulse.
 
 4. Set up the Circuit \
-Set up the circuit on a breadboard using a 330-ohm resistor and an LED connected to pin 9 of the Arduino board. Connect
+Set up the circuit on a breadboard using a 330-ohm resistor in series with an LED connected to pin 9 of the Arduino board. Connect
 the device to your computer in the desired port.
 
 6. Developing Arduino Code \
