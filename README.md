@@ -25,14 +25,14 @@ The system features voice recognition and LEDs.
 It recognizes voice commands and executes them to control a lighting system with the execution of each command.
 
 ## Key Objectives:
-- Recognize specific voice commands in multiple languages
-- Provide appropriate audio feedback upon the execution of each command
-- Map color-coded LEDs to commands and control their lighting according to those commands
+- Train a machine learning model to recognize the keyword "Hey Jarvis."
+- Deploy the model to an Arduino Nano 33 BLE Sense.
+- Toggle an LED on pin 9 when the keyword is detected.
 
 ## Technology Stack:
 Hardware platform: Arduino Nano 33 BLE Sense  
 Software tools: Edge Impulse Studio, Arduino IDE  
-Languages: C, Python, TinyML  
+Languages: C++, Python
 
 ## Expected Outcomes:
 We expect to deliver a working prototype consisting of our hardware platform connected to LEDs and a speaker (likely on a breadboard)
