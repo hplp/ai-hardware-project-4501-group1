@@ -14,10 +14,15 @@ https://studio.edgeimpulse.com/public/551144/live
 ** Hey Jarvis, Turn the Lights On**
 
 ## Project Description:
-This project provides accessible use of lights for those with disabilities. 
-It features multi-language voice recognition, audio feedback mechanisms, and color-coded LEDs.
-It will recognize various commands and execute them to control a lighting system, providing audio feedback
-to the user with the execution of each command.
+
+***Voice-Controlled LED Toggle with Edge Impulse***
+
+This project demonstrates how to use the Arduino Nano 33 BLE Sense with Edge Impulse to toggle an LED in response to the keyword "Hey Jarvis." The goal is to showcase the integration of machine learning and embedded systems. It provides accessible use of lights for those with disabilities. 
+
+![Arduino BLE](https://github.com/hplp/ai-hardware-project-4501-group1/blob/main/FinalProjectReport/arduinoBLE.jpg)
+
+The system features voice recognition and LEDs.
+It recognizes voice commands and executes them to control a lighting system with the execution of each command.
 
 ## Key Objectives:
 - Recognize specific voice commands in multiple languages
